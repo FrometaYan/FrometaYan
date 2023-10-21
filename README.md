@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrometaYan
 - 👀 I’m interested in Frontend and bot development
-- 🌱 I’m currently working with React, Next and Vue, Electron and Node.js
+- 🌱 I’m currently working with React, Next and Vue, Electron and Node.js,Laravel, Taiwind css etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
